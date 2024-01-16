@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="Background">Фон заголовка</string>
+    <string name="Photo">Моя фотографія</string>
+    <string name="Name">Машковський Андрій</string>
+    <string name="Position">Програміст</string>
+    <string name="Email">marievka@ukr.net</string>
+    <string name="Phone">+38(099)3288564</string>
+    <string name="Biography">Біографія програміста в трьох томах.\n Том перший\n Том другий\n Том третій</string>
+</resources>
